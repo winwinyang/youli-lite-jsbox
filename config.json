@@ -1,0 +1,24 @@
+{
+    "info": {
+        "name": "youli-lite",
+        "url": "",
+        "version": "1.0.0",
+        "author": "winwinyang-perfowl studio",
+        "website": "https://youli.perfowl.com/",
+        "types": 0
+    },
+    "settings": {
+        "minSDKVer": "1.38.0",
+        "minOSVer": "10.0.0",
+        "idleTimerDisabled": false,
+        "autoKeyboardEnabled": false,
+        "keyboardToolbarEnabled": false,
+        "rotateDisabled": false
+    },
+    "widget": {
+        "height": 0,
+        "staticSize": false,
+        "tintColor": "",
+        "iconColor": ""
+    }
+}
